@@ -14,5 +14,5 @@
 <!-- BLOG-POST-LIST:START -->
 - [Pragmatic guide to DynamoDB](https://tomaszhamerla.com/blog/pragmatic-guide-to-dynamodb/)
 - [How the upcoming EU laws can shake the machine learning pipeline](https://tomaszhamerla.com/blog/post-gdpr-ml-pipeline/)
-- [The ultimate guide to dynamoDB](https://tomaszhamerla.com/blog/ultimate-guide-to-dynamodb/)
+- [The dangers of serverless solutions](https://tomaszhamerla.com/blog/dangers-of-serverless/)
 <!-- BLOG-POST-LIST:END -->

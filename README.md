@@ -2,6 +2,7 @@
 
 ```mermaid
   graph TD;
+  focus-->ad[accessible design];
   focus[ ]-->di[data engineering];
   focus-->cloud;
   focus-->law;

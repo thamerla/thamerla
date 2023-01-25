@@ -14,4 +14,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@1.8.0
         with:
           feed_list: "https://tomaszhamerla.com/index.xml"
-          max_post_count: 3
+          max_post_count: 5
